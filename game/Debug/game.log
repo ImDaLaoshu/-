@@ -1,0 +1,7 @@
+﻿  Reading Qt configuration (C:/Qt/Qt5.14.2/5.14.2/msvc2017/bin/qmake)
+  uic game.ui
+  moc game.h
+  game.cpp
+  main.cpp
+  moc_game.cpp
+  game.vcxproj -> E:\CPP_PRO\ExperimentalReport\game\game\Debug\game.exe

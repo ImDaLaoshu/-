@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/game">
+        <file>MacOS.qss</file>
+        <file>0.png</file>
+        <file>1.png</file>
+        <file>startPoint.png</file>
+        <file>outPoint.png</file>
+        <file>character.png</file>
+        <file>mainBackground.jpg</file>
+    </qresource>
+</RCC>
